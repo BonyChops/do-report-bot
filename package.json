@@ -1,0 +1,23 @@
+{
+  "name": "do-report-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonyChops/do-report-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonyChops/do-report-bot/issues"
+  },
+  "homepage": "https://github.com/BonyChops/do-report-bot#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "twitter": "^1.7.1"
+  }
+}
